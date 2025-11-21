@@ -53,6 +53,7 @@ class Main(Ui_MainWindow):
             "English",
             "हिंदी",
             "简体中文(Simplified Chinese)",
+            "正體中文(Traditional Chinese)",
         ]
 
         # Add Overlay-Widgets
