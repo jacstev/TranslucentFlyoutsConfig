@@ -5,6 +5,7 @@ class Path:
     class Translations:
         Hindi: str = "Translations/hi-in.json"
         SimplifiedChinese: str = "Translations/zh-cn.json"
+        TraditionalChinese: str = "Translations/zh-tw.json"
 
     class IconPaths:
         AppliedIcon = "Assets/icons/applied.png"
