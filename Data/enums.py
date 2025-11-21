@@ -103,6 +103,7 @@ class Languages(IntEnum):
     Default = 0
     Hindi = 1
     SimplifiedChinese = 2
+    TraditionalChinese = 3
 
 
 class IconType(IntEnum):
